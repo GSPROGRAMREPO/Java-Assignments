@@ -1,0 +1,42 @@
+Create a program to demonstrate the use of Collections methods reverse, fill, copy, max and min
+
+    Get three characters from the user
+    Create and display a list of three characters
+    Reverse(using Collection method) and display the list
+    Create copy list((using Collection method)) from an array of the three Characters
+    Copy the contents of list((using Collection method)) in step one into copy list of the step three.
+    Fill list((using Collection method) with letter R
+    Create a method named output and display at it shown below
+    Name your class “Algorithms”
+
+Output:
+
+list contains:
+
+The list is: P C M
+
+Max: P Min: C
+
+ 
+
+After calling reverse, list contains:
+
+The list is: M C P
+
+Max: P Min: C
+
+ 
+
+After copying, copyList contains:
+
+The list is: M C P
+
+Max: P Min: C
+
+ 
+
+After calling fill, list contains:
+
+The list is: R R R
+
+Max: R Min: R

@@ -1,0 +1,13 @@
+If you have array of numbers 1, 2, 3 and array of strings red, green and blue and array of circles radius 3, 2.9 and 5.9
+
+Implement the following method that returns the maximum element in an array
+
+public static <E extends Comparable<E>> E max (E [] list)
+
+Here is a sample output:
+
+3
+
+red
+
+Circle radius: 5.9
