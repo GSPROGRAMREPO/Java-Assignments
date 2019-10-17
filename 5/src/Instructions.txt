@@ -1,0 +1,11 @@
+Create a program to demonstrate the JTextField class
+
+Construct four text fields, text field one with 10 columns, text field two with default text, text field three with default text and 21 columns, password field with default text.
+
+Add all the above text fields to JFrame.
+
+Create an inner class for even handling then instantiate an object from the inner class.
+
+When user types in any text field or password field, then presses Enter, an event occurs.
+
+See the screen shot below, substitute the word “Hello” with your last name and submit as usual
