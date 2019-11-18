@@ -1,0 +1,1 @@
+Write a applet program that displays a 10 – by – 10 square matrix, as shown below. Each element in the matrix is zero or one, randomly generated. display each number centered in a text field. Use TextField’s setText method to set value 0 or 1 as a string.
